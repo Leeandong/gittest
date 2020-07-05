@@ -3,3 +3,4 @@ andong nb
 edit file2 in master
 edit fil2 in origin/master
 edit readme  in master
+ddit readme int master 2nd
